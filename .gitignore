@@ -1,0 +1,4 @@
+.env
+__pycache__
+.crew
+tools/__pycache__
